@@ -1,5 +1,6 @@
 
-![Banner Para Linkedin Recursos Humanos Fotográfico Gris Claro (1)](https://github.com/liscc93/liscc93/assets/165737195/cad4f880-2603-4451-9b9b-cf5863837737)
+
+![Banner Para Linkedin Recursos Humanos Fotográfico Gris Claro](https://github.com/liscc93/liscc93/assets/165737195/c6f69dc4-4ac1-4ad2-a627-8a0e7ef5c757)
 
 ## Hi there 👋 I'm Lisbeth Cuevas! i´m glad to have you here.
 
@@ -11,7 +12,7 @@ I am a QA Engineer with a newfound passion for technology and optimizing develop
 - [![Yahoo!](https://img.shields.io/badge/Yahoo!-6001D2?style=for-the-badge&logo=Yahoo!&logoColor=white)](mailto:lis.cc_93@yahoo.com.co)
 - [![discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](messageto:merlin.93#2574)
 
-#### Lenguajes y herramientas
+### :hammer_and_wrench: Tools :
 
 <div id="header" align="left">
     <img decoding="async" src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)" alt="jira"/>
@@ -31,7 +32,13 @@ I am a QA Engineer with a newfound passion for technology and optimizing develop
 
 </div>
 
+### 📊 My Stats :
+
+![liscc93's Stats](https://github-readme-stats.vercel.app/api?username=liscc93&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+
 ![liscc93's Streak](https://github-readme-streak-stats.herokuapp.com/?user=liscc93&theme=tokyonight&hide_border=true)
+
+![liscc93's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=liscc93&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
 
 
 
