@@ -1,3 +1,6 @@
+
+![Banner Para Linkedin Recursos Humanos Fotográfico Gris Claro (1)](https://github.com/liscc93/liscc93/assets/165737195/cad4f880-2603-4451-9b9b-cf5863837737)
+
 ## Hi there 👋 I'm Lisbeth Cuevas! i´m glad to have you here.
 
 I am a QA Engineer with a newfound passion for technology and optimizing development processes in sectors such as web development, applications, and information security. I have acquired knowledge in essential tools and technologies such as Selenium, Jira, Postman, Python, and Charles, which enable me to efficiently perform automated and API testing, ensuring the quality and reliability of the products I work on.
@@ -28,6 +31,7 @@ I am a QA Engineer with a newfound passion for technology and optimizing develop
 
 </div>
 
+![liscc93's Streak](https://github-readme-streak-stats.herokuapp.com/?user=liscc93&theme=tokyonight&hide_border=true)
 
 
 
